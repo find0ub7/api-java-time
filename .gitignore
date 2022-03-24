@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+/.idea/
+/linx838-java-time.iml
